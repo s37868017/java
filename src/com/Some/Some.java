@@ -1,4 +1,4 @@
-package Com.Some;
+package com.Some;
 
 public class Some {
 }

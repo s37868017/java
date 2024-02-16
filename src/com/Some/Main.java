@@ -1,7 +1,7 @@
-package Com.Some;
+package com.Some;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main (String[] args) {
 
     }
 }
